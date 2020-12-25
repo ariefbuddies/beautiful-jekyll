@@ -83,6 +83,7 @@ This is a red box.{: .red}
 
 |  Company Type  | Total Company Revenue | Member Dues |
 |:-------------:|:-------------:|:------------:|
+|1|2|3|
 
 <hr>
 
