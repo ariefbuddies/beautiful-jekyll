@@ -23,12 +23,11 @@ Here's a useless table:
 
 table, th, td {
 
-  border: 1px solid black;
+border: 1px solid black;
 
 }
 
 </style>
-
 
 | Nomor | Berikut number | Sebelum number |
 | :--- | :--- | :--- |
@@ -36,6 +35,7 @@ table, th, td {
 | 2. | Eleven | Nine |
 | 3. | Eight | Six |
 | 4. | Three | One |
+
 {: .center-block :}
 How about a yummy crepe?
 
@@ -95,7 +95,7 @@ You can add notification, warning and error boxes like this:
 
 table, th, td {
 
-  border: 10px solid black;
+border: 10px solid black;
 
 }
 
@@ -105,59 +105,132 @@ table, th, td {
 
 <table>
 
-  <tr>
+<tr>
 
     <th>Month</th>
-
+    
     <th>Savings</th>
 
-  </tr>
+</tr>
 
-  <tr>
+<tr>
 
     <td>January</td>
-
+    
     <td>$100</td>
 
-  </tr>
+</tr>
 
-  <tr>
+<tr>
 
     <td>February</td>
-
+    
     <td>$80</td>
 
-  </tr>
+</tr>
 
 </table>
 
-    <!DOCTYPE html>
-    <html>
-    <head>
-    <style>
-    table, th, td {
-      border: 1px solid black;
+<head>
+  <meta charset="utf-8">
+  <title>Bening Room</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<!-- Demo styles -->
+  <style>
+    html,
+    body {
+      position: relative;
+      height: 50%;
     }
-    </style>
-    </head>
-    <body>
-    
-    <h1>The table element</h1>
-    
-    <table>
-      <tr>
-        <th>Month</th>
-        <th>Savings</th>
-      </tr>
-      <tr>
-        <td>January</td>
-        <td>$100</td>
-      </tr>
-      <tr>
-        <td>February</td>
-        <td>$80</td>
-      </tr>
-    </table>
-    
-    </body>
-    </html>
+
+    body {
+      background: #eee;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color: #000;
+      margin: 0;
+      padding: 0;
+    }
+
+    .swiper-container {
+      width: 320px;
+      height: 240px;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+<!-- Swiper -->
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+     <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/s1.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/s2.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/s3.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/s4.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/s5.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/s6.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k1.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k13.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k3.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k4.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k5.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k6.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k7.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k8.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k9.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k10.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k11.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k12.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m1.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m2.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m3.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m4.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m5.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m6.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m7.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m8.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m9.jpg"></div>
+      <div class="swiper-slide"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m10.jpg"></div>
+	  </div>
+</div>
+   <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+  </div>
+ <!-- Swiper JS -->
+
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper('.swiper-container', {
+      spaceBetween: 60,
+      centeredSlides: true,
+      autoplay: {
+        delay: 4000,
+        disableOnInteraction: true,
+      },
+    });
+	</script>
+</body>
