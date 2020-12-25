@@ -21,12 +21,11 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 Here's a useless table:
 
 | Nomor | Berikut number | Sebelum number |
-| :------ |:--- | :--- |
+| :--- | :--- | :--- |
 | 1. | Six | Four |
 | 2. | Eleven | Nine |
 | 3. | Eight | Six |
 | 4. | Three | One |
-
 
 How about a yummy crepe?
 
@@ -38,12 +37,10 @@ It can also be centered!
 
 Here's a code chunk:
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+    var foo = function(x) {
+      return(x + 5);
+    }
+    foo(3)
 
 And here is the same code with syntax highlighting:
 
@@ -58,12 +55,13 @@ And here is the same code yet again but with line numbers:
 
 {% highlight javascript linenos %}
 var foo = function(x) {
-  return(x + 5);
+return(x + 5);
 }
 foo(3)
 {% endhighlight %}
 
 ## Boxes
+
 You can add notification, warning and error boxes like this:
 
 ### Notification
@@ -80,3 +78,34 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <style>
+    table, th, td {
+      border: 1px solid black;
+    }
+    </style>
+    </head>
+    <body>
+    
+    <h1>The table element</h1>
+    
+    <table>
+      <tr>
+        <th>Month</th>
+        <th>Savings</th>
+      </tr>
+      <tr>
+        <td>January</td>
+        <td>$100</td>
+      </tr>
+      <tr>
+        <td>February</td>
+        <td>$80</td>
+      </tr>
+    </table>
+    
+    </body>
+    </html>
