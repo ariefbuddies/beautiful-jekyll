@@ -32,8 +32,7 @@ avatar: "/uploads/logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
-
+title-img: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tugu.webp"
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
@@ -51,7 +50,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tugu.webp"
+# navbar-img: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tugu.webp"
 footer-img: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tugu.webp"
 # page-img: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tugu.webp"
 
