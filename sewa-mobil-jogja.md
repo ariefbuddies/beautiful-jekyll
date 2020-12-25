@@ -6,11 +6,9 @@ bigimg: "/uploads/m4.webp"
 tags: []
 
 ---
-Daftar Harga Sewa Mobil Jogja
+**Daftar Harga Sewa Mobil Jogja**
 
 <ul class="staff-list">
-
-<li class="staff">
 
 <div class="staff-details">
 
