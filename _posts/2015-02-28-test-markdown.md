@@ -95,8 +95,6 @@ table, th, td {
 
 </head>
 
-<body>
-
 <h1>The table element</h1>
 
 <table>
@@ -126,8 +124,6 @@ table, th, td {
   </tr>
 
 </table>
-
-</body>
 
     <!DOCTYPE html>
     <html>
