@@ -18,7 +18,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 ## Here is a secondary heading
 
 Here's a useless table:
-<style>
+<div> <style>
 
 table, th, td {
 
@@ -33,7 +33,7 @@ border: 1px solid black;
 | 2. | Eleven | Nine     | 20 |
 | 3. | Eight  | Six      |14 |
 | 4. | Three  | One      | 4 |
-
+</div>
 How about a yummy crepe?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
