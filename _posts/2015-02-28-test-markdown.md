@@ -18,7 +18,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 ## Here is a secondary heading
 
 Here's a useless table:
-<div style="table, th, td { border: 1px solid black;}">
+<div style="border: 1px solid black;">
 
 | Nomor | Berikut number | Sebelum number | TOTAL |
 | 1. |   Two  |    Five  |      7  |
