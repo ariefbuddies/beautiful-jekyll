@@ -4,23 +4,7 @@ title: My website
 subtitle: This is where I will tell my friends way too much about me
 use-site-title: true
 ---
-<ul class="staff-list">
-	{% for member in site.staff_members %}
-		<li class="staff">
-			<div class="staff-details">
-				<div class="staff-image">
-					<img src="{{ member.image }}" alt="Staff photo for {{ member.name }}" width="120" height="120">
-				</div>
-				<ul class="staff-info">
-					<li>{{ member.name }}</li>
-					<li><small>{{ member.credentials }}</small></li>
-					<li><a href="tel:{{ site.data.company.contact_phone_number }}">{{ site.data.company.contact_phone_number }}</a>  ext {{ member.phone_extension }}</li>
-				</ul>
-			</div>
 
-		</li>
-	{% endfor %}
-</ul>
 
 
 <div class="posts-list">
