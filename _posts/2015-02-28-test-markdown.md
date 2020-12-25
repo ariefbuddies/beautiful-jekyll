@@ -20,12 +20,12 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 Here's a useless table:
 
-| Number | Berikut number | Sebelum number |
+| Nomor | Berikut number | Sebelum number |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| 1. | Six | Four |
+| 2. | Eleven | Nine |
+| 3. | Eight | Six |
+| 4. | Three | One |
 
 
 How about a yummy crepe?
@@ -80,18 +80,3 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
-
-<ul class="staff-list">
-	{% for member in site.staff_members %}
-		<li class="staff">
-			<div class="staff-details">
-				<div class="staff-image">
-					<img src="{{ member.image }}" alt="Staff photo for {{ member.name }}" width="120" height="120">
-				</div>
-				<ul class="staff-info">
-					<li>{{ member.name }}</li>
-					<li><small>{{ member.credentials }}</small></li>
-					<li><a href="tel:{{ site.data.company.contact_phone_number }}">{{ site.data.company.contact_phone_number }}</a>  ext {{ member.phone_extension }}</li>				</ul>
-			</div>
-		</li>
-</ul>
