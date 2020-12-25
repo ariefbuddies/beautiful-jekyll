@@ -81,15 +81,11 @@ You can add notification, warning and error boxes like this:
 
 <hr>
 
-<style>
-
 table, th, td {
 
   border: 10px solid black;
 
 }
-
-</style>
 
 <h1>The table element</h1>
 
