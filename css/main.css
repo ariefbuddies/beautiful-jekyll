@@ -786,3 +786,48 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+}
+
+.staff-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 -20px;
+
+	.staff {
+		margin: 20px;
+	}
+}
+
+.staff {
+	@extend .box;
+	flex: 1 1 300px;
+	flex-wrap: wrap;
+	margin: 20px 0;
+
+	p {
+		margin: 0;
+	}
+
+	small {
+		opacity: 0.6;
+		font-size: 1.7rem;
+	}
+}
+
+.staff-info {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.staff-details {
+	margin: 0;
+	display: flex;
+
+	.staff-image {
+		margin-right: 20px;
+	}
+}
