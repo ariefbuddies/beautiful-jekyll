@@ -16,7 +16,7 @@ Daftar Harga Sewa Mobil Jogja
 
 <ul class="staff-info">
 
-                <li><h3>All New Avanza Automatic</h3></li>
+                <h3>All New Avanza Automatic</h3>
 
 <li><p style="color:red">300k / hari (Lepas Kunci)</p></li>
 
@@ -28,7 +28,7 @@ Daftar Harga Sewa Mobil Jogja
 
 <p><blockquote>
 
-  <p><img src="/uploads/m1.webp" alt="" width="150" height="112" /></p>
+<p><img src="/uploads/m1.webp" alt="" width="150" height="112" /></p>
 
 </blockquote>
 
@@ -38,17 +38,17 @@ Daftar Harga Sewa Mobil Jogja
 
 <ul>
 
-  <li>
+<li>
 
     <h4 id="12-jam-275-ribu">12 Jam 250 ribu</h4>
 
-  </li>
+</li>
 
-  <li>
+<li>
 
     <h4 id="24-jam-325-ribu">24 Jam 300 ribu</h4>
 
-  </li>
+</li>
 
 </ul>
 
@@ -56,17 +56,17 @@ Daftar Harga Sewa Mobil Jogja
 
 <ul>
 
-  <li>
+<li>
 
     <h4 id="10-jam-375-ribu">10 Jam 350 ribu</h4>
 
-  </li>
+</li>
 
-  <li>
+<li>
 
     <h4 id="per-hari-450-ribu">Per Hari 425 ribu</h4>
 
-  </li>
+</li>
 
 </ul>
 
@@ -74,16 +74,16 @@ Daftar Harga Sewa Mobil Jogja
 
 <ul>
 
-  <li>
+<li>
 
     <h4 id="10-jam-500-ribu">10 Jam 475 ribu</h4>
 
-  </li>
+</li>
 
-  <li>
+<li>
 
     <h4 id="per-hari-550-ribu">Per Hari 525 ribu</h4>
 
-  </li>
+</li>
 
 </ul>
