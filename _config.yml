@@ -50,7 +50,7 @@ footer-link-col: "#000000"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tugu.webp"
+navbar-img: "/img/path.jpg"
 # footer-img: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tugu.webp"
 # page-img: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tugu.webp"
 
