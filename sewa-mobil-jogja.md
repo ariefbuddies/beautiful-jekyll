@@ -28,7 +28,7 @@ Daftar Harga Sewa Mobil Jogja
 
 <p><blockquote>
 
-  <p><img src="/uploads/m1.jpg" alt="" width="650" height="450" /></p>
+  <p><img src="/uploads/m1.webp" alt="" width="150" height="112" /></p>
 
 </blockquote>
 
