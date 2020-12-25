@@ -3,11 +3,15 @@ layout: post
 title: Test markdown
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-badge:
+- star
+- fork
+- follow
+tags:
+- test
 comments: true
----
 
+---
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
@@ -16,7 +20,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 Here's a useless table:
 
-| Number | Next number | Previous number |
+| Number | Berikut number | Sebelum number |
 | :------ |:--- | :--- |
 | Five | Six | Four |
 | Ten | Eleven | Nine |
@@ -76,3 +80,18 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+<ul class="staff-list">
+	{% for member in site.staff_members %}
+		<li class="staff">
+			<div class="staff-details">
+				<div class="staff-image">
+					<img src="{{ member.image }}" alt="Staff photo for {{ member.name }}" width="120" height="120">
+				</div>
+				<ul class="staff-info">
+					<li>{{ member.name }}</li>
+					<li><small>{{ member.credentials }}</small></li>
+					<li><a href="tel:{{ site.data.company.contact_phone_number }}">{{ site.data.company.contact_phone_number }}</a>  ext {{ member.phone_extension }}</li>				</ul>
+			</div>
+		</li>
+</ul>
