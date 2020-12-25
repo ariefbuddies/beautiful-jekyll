@@ -93,9 +93,7 @@ You can add notification, warning and error boxes like this:
 
 <style>
 
-table, th, td {
-
-border: 10px solid black;
+table, th, td { border: 10px solid black;margin-left: auto;margin-right: auto;
 
 }
 
