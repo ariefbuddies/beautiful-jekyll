@@ -121,11 +121,6 @@ table, th, td { border: 10px solid black;margin-left: auto;margin-right: auto;
 
 </table>
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-    border: 1px solid black; padding:10px;
-    }
-</style>
 
 
 |  Company Type  | Total Company Revenue | Member Dues |
