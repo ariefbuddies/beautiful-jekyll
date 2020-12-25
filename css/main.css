@@ -116,9 +116,9 @@ img {
 }
 
 .navbar-custom .nav li a {
-  text-transform: lowercase;
+  text-transform: lettercase;
   font-size: 16px;
-  letter-spacing: 1px;
+  letter-spacing: .5px;
 }
 
 .navbar-custom .navbar-brand,
