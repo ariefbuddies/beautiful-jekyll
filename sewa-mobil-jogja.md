@@ -110,17 +110,17 @@ tags: []
 
 <ul>
 
-  <li>
+<li>
 
     <h4 id="12-jam-250-ribu">12 Jam 225 ribu</h4>
 
-  </li>
+</li>
 
-  <li>
+<li>
 
     <h4 id="24-jam-300-ribu">24 Jam 275 ribu</h4>
 
-  </li>
+</li>
 
 </ul>
 
@@ -128,17 +128,17 @@ tags: []
 
 <ul>
 
-  <li>
+<li>
 
     <h4 id="10-jam-350-ribu">10 Jam 325 ribu</h4>
 
-  </li>
+</li>
 
-  <li>
+<li>
 
     <h4 id="per-hari-450-ribu">Per Hari 425 ribu</h4>
 
-  </li>
+</li>
 
 </ul>
 
@@ -146,17 +146,17 @@ tags: []
 
 <ul>
 
-  <li>
+<li>
 
     <h4 id="10-jam-450-ribu">10 Jam 425 ribu</h4>
 
-  </li>
+</li>
 
-  <li>
+<li>
 
     <h4 id="per-hari-550-ribu">Per Hari 525 ribu</h4>
 
-  </li>
+</li>
 
 </ul>
 
@@ -178,23 +178,23 @@ tags: []
 
 <div class="staff-bio">
 
-<p><blockquote><p><img src="![](https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-manual.jpg)" alt="" width="150" height="112" /></p></blockquote></p>
+<p><blockquote><p><img src="![](https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-manual.jpg)" alt="" width="150" height="112"></p></blockquote></p>
 
 <h4 id="lepas-kunci">LEPAS KUNCI</h4>
 
 <ul>
 
-  <li>
+<li>
 
     <h4 id="12-jam-250-ribu">12 Jam 225 ribu</h4>
 
-  </li>
+</li>
 
-  <li>
+<li>
 
     <h4 id="24-jam-300-ribu">24 Jam 275 ribu</h4>
 
-  </li>
+</li>
 
 </ul>
 
@@ -202,17 +202,17 @@ tags: []
 
 <ul>
 
-  <li>
+<li>
 
     <h4 id="10-jam-350-ribu">10 Jam 325 ribu</h4>
 
-  </li>
+</li>
 
-  <li>
+<li>
 
     <h4 id="per-hari-450-ribu">Per Hari 425 ribu</h4>
 
-  </li>
+</li>
 
 </ul>
 
@@ -220,22 +220,20 @@ tags: []
 
 <ul>
 
-  <li>
+<li>
 
     <h4 id="10-jam-450-ribu">10 Jam 425 ribu</h4>
 
-  </li>
+</li>
 
-  <li>
+<li>
 
     <h4 id="per-hari-500-ribu">Per Hari 475 ribu</h4>
 
-  </li>
+</li>
 
 </ul>
 
 <p></p>
 
 </div>
-
-</article>
