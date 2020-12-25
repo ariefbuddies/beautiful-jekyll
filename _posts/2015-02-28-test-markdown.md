@@ -78,8 +78,8 @@ You can add notification, warning and error boxes like this:
 **Error:** This is an error box.
 
 
-{: .red}
-**red:** This is a red box.
+
+This is a red box.{: .red}
 
 <hr>
 
