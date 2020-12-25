@@ -81,6 +81,9 @@ You can add notification, warning and error boxes like this:
 
 This is a red box.{: .red}
 
+|  Company Type  | Total Company Revenue | Member Dues |
+|:-------------:|:-------------:|:------------:|
+
 <hr>
 
 <style>
@@ -123,8 +126,7 @@ table, th, td { border: 10px solid black;margin-left: auto;margin-right: auto;
 
 
 
-|  Company Type  | Total Company Revenue | Member Dues |
-|:-------------:|:-------------:|:------------:|
+
 
 
 
