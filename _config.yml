@@ -39,7 +39,7 @@ title-img: "/uploads/logo.png"
 
 navbar-col: "#FFFFFF"
 navbar-text-col: "#000000"
-navbar-children-col: "#050505"
+navbar-children-col: "#FFFFFF"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
