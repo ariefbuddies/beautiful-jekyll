@@ -8,6 +8,8 @@ tags: []
 ---
 **Daftar Harga Sewa Mobil Jogja**
 
+<article class="content" data-cms-content-wrapper="/_layouts/page.html">
+
 <ul class="staff-list">
 
 <div class="staff-details">
@@ -235,3 +237,5 @@ tags: []
 <p></p>
 
 </div>
+
+</article>
