@@ -36,8 +36,7 @@ border: 1px solid black;
 | 3. | Eight | Six |
 | 4. | Three | One |
 
-{: .center-block :}
-How about a yummy crepe?
+ How about a yummy crepe?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
