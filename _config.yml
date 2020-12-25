@@ -39,7 +39,7 @@ avatar: "/uploads/logo.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#FFFFFF"
-navbar-text-col: "#404040"
+navbar-text-col: "#FFFFFF"
 navbar-children-col: "#F5F5F5"
 page-col: "#FBFBFB"
 link-col: "#008AFF"
@@ -52,8 +52,8 @@ footer-link-col: "#404040"
 # instead of colour
 
 navbar-img: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tugu.webp"
-footer-img: "/uploads/logo.png"
-page-img: "/uploads/logo.png"
+footer-img: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tugu.webp"
+page-img: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tugu.webp"
 
 # --- Footer options --- #
 
