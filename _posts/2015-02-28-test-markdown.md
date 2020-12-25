@@ -19,11 +19,11 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 Here's a useless table:
 
-|**Nomor | Berikut number | Sebelum number | TOTAL |
+|**Nomor** | **Berikut number** | **Sebelum number** | **TOTAL** |
 | 1. |   Two  |    Five  |      7  |
 | 2. | Eleven | Nine     | 20 |
 | 3. | Eight  | Six      |14 |
-| 4. | Three  | One      | 4** |
+| 4. | Three  | One      | 4 |
 
 How about a yummy crepe?
 
@@ -76,6 +76,10 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+
+{: .red}
+**red:** This is a red box.
 
 <hr>
 
