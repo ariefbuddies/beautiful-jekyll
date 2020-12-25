@@ -104,7 +104,7 @@ tags: []
 
 <div class="staff-bio">
 
-<p></p><p><img src="/uploads/m3.webp" alt="" width="150" height="112" /></p>
+<p><blockquote><p><img src="/uploads/m3.webp" alt="" width="150" height="112" /></p></blockquote></p>
 
 <h4 id="lepas-kunci--">LEPAS KUNCI</h4>
 
@@ -178,7 +178,7 @@ tags: []
 
 <div class="staff-bio">
 
-<p></p><p><img src="/uploads/brio-manual.jpg" alt="" width="150" height="112" /></p>
+<p><blockquote><p><img src="/uploads/brio-manual.jpg" alt="" width="150" height="112" /></p></blockquote></p>
 
 <h4 id="lepas-kunci">LEPAS KUNCI</h4>
 
