@@ -161,3 +161,77 @@ tags: []
 <p></p>
 
 </div>
+
+<div class="staff-details">
+
+<ul class="staff-info">
+
+<li><h3>Honda Brio Manual</h3></li>
+
+<li><p style="color:red">275k / hari (Lepas Kunci)</p></li>
+
+</ul>
+
+</div>
+
+<div class="staff-bio">
+
+<p></p><p><img src="/uploads/brio-manual.jpg" alt="" width="150" height="112" /></p>
+
+<h4 id="lepas-kunci">LEPAS KUNCI</h4>
+
+<ul>
+
+  <li>
+
+    <h4 id="12-jam-250-ribu">12 Jam 225 ribu</h4>
+
+  </li>
+
+  <li>
+
+    <h4 id="24-jam-300-ribu">24 Jam 275 ribu</h4>
+
+  </li>
+
+</ul>
+
+<h4 id="mobil--driver">Mobil + Driver</h4>
+
+<ul>
+
+  <li>
+
+    <h4 id="10-jam-350-ribu">10 Jam 325 ribu</h4>
+
+  </li>
+
+  <li>
+
+    <h4 id="per-hari-450-ribu">Per Hari 425 ribu</h4>
+
+  </li>
+
+</ul>
+
+<h4 id="mobil--driver--bbm">Mobil + Driver + BBM</h4>
+
+<ul>
+
+  <li>
+
+    <h4 id="10-jam-450-ribu">10 Jam 425 ribu</h4>
+
+  </li>
+
+  <li>
+
+    <h4 id="per-hari-500-ribu">Per Hari 475 ribu</h4>
+
+  </li>
+
+</ul>
+
+<p></p>
+
+</div>
