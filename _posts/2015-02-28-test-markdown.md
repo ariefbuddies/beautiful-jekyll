@@ -30,13 +30,12 @@ border: 1px solid black;
 </style>
 
 | Nomor | Berikut number | Sebelum number |
-| :--- | :--- | :--- |
-| 1. | ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
- | ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+| :--- | :--- | :---------- |
+| 1.   | Six  | ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
  |
-| 2. | Eleven | Nine |
-| 3. | Eight | Six |
-| 4. | Three | One |
+| 2.   | Eleven | Nine |
+| 3.   | Eight | Six |
+| 4.   | Three | One |
 
  How about a yummy crepe?
 
