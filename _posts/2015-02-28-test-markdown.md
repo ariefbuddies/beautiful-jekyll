@@ -79,7 +79,7 @@ You can add notification, warning and error boxes like this:
 
 
 
-This is a red box.{: .red}
+<span style="color:red">This is a red</span>
 
 |  Company Type  | Total Company Revenue | Member Dues |
 |:-------------:|:-------------:|:------------:|
