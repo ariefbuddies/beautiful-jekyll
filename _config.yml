@@ -32,7 +32,7 @@ avatar: "https://raw.githubusercontent.com/ariefbuddies/bening-out/master/upload
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/uploads/logo3.png"
+title-img: "/uploads/logo.png"
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
@@ -41,7 +41,7 @@ navbar-col: "#FFFFFF"
 navbar-text-col: "#000000"
 navbar-children-col: "#FFFFFF"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
+link-col: "#000000"
 hover-col: "#0085A1"
 footer-col: "#FFFFFF"
 footer-text-col: "#000000"
