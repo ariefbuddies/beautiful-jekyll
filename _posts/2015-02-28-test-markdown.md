@@ -7,9 +7,8 @@ gh-badge:
 - star
 - fork
 - follow
-tags:
-- test
-comments: true
+tags: []
+comments: false
 
 ---
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
@@ -30,13 +29,13 @@ border: 1px solid black;
 </style>
 
 | Nomor | Berikut number | Sebelum number |
-| :--- | :--- | :---------- |
-| 1.   | ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)| ![Brafie](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}|
-| 2.   | Eleven | Nine |
-| 3.   | Eight | Six |
-| 4.   | Three | One |
+|  | :--- | :--- |
+| 1. |   Two     |    Five  |
+| 2. | Eleven | Nine |
+| 3. | Eight | Six |
+| 4. | Three | One |
 
- How about a yummy crepe?
+How about a yummy crepe?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
