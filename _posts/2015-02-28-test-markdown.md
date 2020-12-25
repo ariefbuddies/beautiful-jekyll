@@ -79,6 +79,8 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 
+<hr>
+
 <html>
 
 <head>
@@ -87,7 +89,7 @@ You can add notification, warning and error boxes like this:
 
 table, th, td {
 
-  border: 1px solid black;
+  border: 10px solid black;
 
 }
 
