@@ -7,12 +7,29 @@ layout: base
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      {{ content }}
+      <ul class="staff-list">
+	{% for member in site.staff_members %}
+		<li class="staff">
+			<div class="staff-details">
+				<div class="staff-image">
+					<img src="{{ member.image }}" alt="Staff photo for {{ member.name }}" width="120" height="120">
+				</div>
+				<ul class="staff-info">
+					<li>{{ member.name }}</li>
+					<li>{{ member.credentials }}</li>
+					<li><a href="tel:{{ site.data.company.contact_phone_number }}">{{ site.data.company.contact_phone_number }}</a>  ext {{ member.phone_extension }}</li>
+				</ul>
+			</div>
+
+		</li>
+	{% endfor %}
+</ul>
+	    {{ content }}
 	    {% if page.comments %}
         <div class="disqus-comments">
 	        {% include disqus.html %}
         </div>
-	        {% include fb-comment.html %}
+	    {% include fb-comment.html %}
         <div class="staticman-comments">
           {% include staticman-comments.html %}
         </div>
