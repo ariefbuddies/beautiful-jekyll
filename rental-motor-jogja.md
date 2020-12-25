@@ -1,9 +1,10 @@
 ---
-layout: Blog Motor
+layout: post
 title: Rental Motor Jogja
-subtitle: Nyewain Motor
+subtitle: Nyewain Motor Jogja
 bigimg: ''
-tags: []
+tags:
+- Motor
 
 ---
 Hahahaha
