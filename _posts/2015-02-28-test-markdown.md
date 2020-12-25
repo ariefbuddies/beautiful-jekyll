@@ -19,6 +19,16 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 ## Here is a secondary heading
 
 Here's a useless table:
+<style>
+
+table, th, td {
+
+  border: 1px solid black;
+
+}
+
+</style>
+
 
 | Nomor | Berikut number | Sebelum number |
 | :--- | :--- | :--- |
@@ -81,11 +91,15 @@ You can add notification, warning and error boxes like this:
 
 <hr>
 
+<style>
+
 table, th, td {
 
   border: 10px solid black;
 
 }
+
+</style>
 
 <h1>The table element</h1>
 
@@ -115,7 +129,7 @@ table, th, td {
 
   </tr>
 
-</table>
+</table>{: .center-block :}
 
     <!DOCTYPE html>
     <html>
