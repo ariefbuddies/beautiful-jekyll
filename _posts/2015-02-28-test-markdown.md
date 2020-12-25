@@ -28,12 +28,11 @@ border: 1px solid black;
 
 </style>
 
-| Nomor | Berikut number | Sebelum number |
-|  | :--- | :--- |
-| 1. |   Two     |    Five  |
-| 2. | Eleven | Nine |
-| 3. | Eight | Six |
-| 4. | Three | One |
+| Nomor | Berikut number | Sebelum number | TOTAL |
+| 1. |   Two  |    Five  |      7  |
+| 2. | Eleven | Nine     | 20 |
+| 3. | Eight  | Six      |14 |
+| 4. | Three  | One      | 4 |
 
 How about a yummy crepe?
 
