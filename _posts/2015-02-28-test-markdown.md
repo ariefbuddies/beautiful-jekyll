@@ -81,8 +81,6 @@ You can add notification, warning and error boxes like this:
 
 <hr>
 
-<head>
-
 <style>
 
 table, th, td {
@@ -92,8 +90,6 @@ table, th, td {
 }
 
 </style>
-
-</head>
 
 <h1>The table element</h1>
 
