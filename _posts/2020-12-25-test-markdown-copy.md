@@ -81,9 +81,10 @@ You can add notification, warning and error boxes like this:
 <span style="color:red">This is a red</span>
 <font color='blue'>This is a blue</font>
 
-| Company Type | Total Company Revenue | Member Dues |
+| AVANZA| Total Company Revenue | Member Dues |
 | :---: | :---: | :---: |
-| 1 | 2 | 3 |
+| ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg | 2 | 3 |
+|275k/Hari| 2 | 3 |
 
 <hr>
 
