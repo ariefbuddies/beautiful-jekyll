@@ -178,7 +178,7 @@ tags: []
 
 <div class="staff-bio">
 
-<p><blockquote>![brio manual](https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-manual.jpg "brio manual")width="150" height="112"></p></blockquote></p>
+<p><blockquote>![brio manual](https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-manual.jpg "brio manual")</p></blockquote></p>
 
 <h4 id="lepas-kunci">LEPAS KUNCI</h4>
 
