@@ -178,10 +178,7 @@ tags: []
 
 <div class="staff-bio">
 
-
-![brio manual](https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-manual.jpg)
-  
-
+<p><blockquote><p><img src="/uploads/m3.webp" alt="" width="150" height="112" /></p></blockquote></p>
 
 <h4 id="lepas-kunci">LEPAS KUNCI</h4>
 
