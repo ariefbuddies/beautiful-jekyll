@@ -81,20 +81,12 @@ You can add notification, warning and error boxes like this:
 <span style="color:red">This is a red</span>
 <font color='blue'>This is a blue</font>
 
-| AVANZA| Total Company Revenue | Member Dues |
+| AVANZA | Total Company Revenue | Member Dues |
 | :---: | :---: | :---: |
-| ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg | 2 | 3 |
-|275k/Hari| 2 | 3 |
+| !\[Crepe\](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg | 2 | 3 |
+| 275k/Hari | 2 | 3 |
 
 <hr>
-
-<style>
-
-table, th, td { border: 10px solid black;margin-left: auto;margin-right: auto;
-
-}
-
-</style>
 
 <h1>The table element</h1>
 
